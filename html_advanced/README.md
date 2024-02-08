@@ -25,5 +25,5 @@ For this project, we expect you to look at these concepts:
 
 The main purpose of this project is creating given website based on the following design
 
-![image info](./assets/img1.jpg)
-![image info](./assets/img2.jpg)
+![website design](./assets/img1.jpg)
+![website wireframe](./assets/img2.jpg)
