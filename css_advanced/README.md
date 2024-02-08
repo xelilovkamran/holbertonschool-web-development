@@ -22,12 +22,12 @@ For this project, we expect you to look at these concepts:
 
 The main goal of this project is to design a website based on figma design
 
-![screenshot-1](./assets/screen1.png)
+![screenshot-1](./assets/img/screen1.png)
 
-![screenshot-2](./assets/screen2.png)
+![screenshot-2](./assets/img/screen2.png)
 
-![screenshot-3](./assets/screen3.png)
+![screenshot-3](./assets/img/screen3.png)
 
-![screenshot-4](./assets/screen4.png)
+![screenshot-4](./assets/img/screen4.png)
 
-![screenshot-5](./assets/screen5.png)
+![screenshot-5](./assets/img/screen5.png)
