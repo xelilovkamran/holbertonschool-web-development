@@ -37,7 +37,7 @@
 body {
   background-image: url(./assets/img/background.png);
   background-repeat: no-repeat;
-  background-size: 100% 1093px;
+  background-size: 100%;
   background-position: center start;
   background-color: #071629;
 
